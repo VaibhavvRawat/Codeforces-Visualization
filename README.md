@@ -23,14 +23,7 @@ A tool to enhnace the looks of the Website.
 git clone https://github.com/VaibhavvRawat/Codeforces-Visualization.git
 cd Codeforces-Visualization
 ```
-#### **2. Install dependencies**
-npm install                      # For JavaScript/React projects
-```
-#### **3. Run the application**
-```sh
-python main.py                   # If it's a Python-based project
-npm start                         # If it's a React/web project
-```
+
 ---
 
 ### 🛠 **Technologies Used**
