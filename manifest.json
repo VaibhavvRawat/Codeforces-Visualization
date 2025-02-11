@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "CF Modifier",
+    "version": "1.0",
+    "description": "Makes permanent changes to my website.",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["https://codeforces.com/profile/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
